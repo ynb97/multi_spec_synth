@@ -1,0 +1,40 @@
+version: "3.5"
+services:
+  torchserve:
+    image: mlops_torchserve:v5
+    pull_policy: never
+    container_name: torchserve
+    environment:
+      - DOCKER_BUILDKIT=1
+    # command: 'torchserve --start --foreground --ncs --model-store model_store --ts-config config.properties'
+    command: tail -f /dev/null
+    ports:
+      - "7050-7055:7050-7055"
+      - "5003:5003"
+    restart: always
+    volumes:
+      - ../home:/home
+      - ../docker_tmp:/tmp
+      - ./:/backend
+    # networks:
+    #   - private_tts
+    working_dir: /home
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+# volumes: 
+#   tmpfs: 
+#     # For details, see:
+#     # https://docs.docker.com/engine/reference/commandline/volume_create/#driver-specific-options
+#     driver: local
+#     driver_opts:
+#       o: "size=$TMPFS_SIZE"
+      
+# networks:
+#   private_tts:
+#     external:
+#       true

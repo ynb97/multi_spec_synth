@@ -1,0 +1,3666 @@
+[
+    {
+        "name": "af-ZA-Standard-A",
+        "supported_language": [
+            "af-ZA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "am-ET-Standard-A",
+        "supported_language": [
+            "am-ET"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "am-ET-Standard-B",
+        "supported_language": [
+            "am-ET"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "am-ET-Wavenet-A",
+        "supported_language": [
+            "am-ET"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "am-ET-Wavenet-B",
+        "supported_language": [
+            "am-ET"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Standard-A",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Standard-B",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Standard-C",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Standard-D",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Wavenet-A",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Wavenet-B",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Wavenet-C",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ar-XA-Wavenet-D",
+        "supported_language": [
+            "ar-XA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bg-BG-Standard-A",
+        "supported_language": [
+            "bg-BG"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Standard-A",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Standard-B",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Standard-C",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Standard-D",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Wavenet-A",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Wavenet-B",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Wavenet-C",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "bn-IN-Wavenet-D",
+        "supported_language": [
+            "bn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ca-ES-Standard-A",
+        "supported_language": [
+            "ca-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Standard-A",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Standard-B",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Standard-C",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Standard-D",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Wavenet-A",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Wavenet-B",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Wavenet-C",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-CN-Wavenet-D",
+        "supported_language": [
+            "cmn-CN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Standard-A",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Standard-B",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Standard-C",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Wavenet-A",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Wavenet-B",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cmn-TW-Wavenet-C",
+        "supported_language": [
+            "cmn-TW"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cs-CZ-Standard-A",
+        "supported_language": [
+            "cs-CZ"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "cs-CZ-Wavenet-A",
+        "supported_language": [
+            "cs-CZ"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Neural2-D",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Standard-A",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Standard-C",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Standard-D",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Standard-E",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Wavenet-A",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Wavenet-C",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Wavenet-D",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "da-DK-Wavenet-E",
+        "supported_language": [
+            "da-DK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Neural2-A",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Neural2-B",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Neural2-C",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Neural2-D",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Neural2-F",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Polyglot-1",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-A",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-B",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-C",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-D",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-E",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Standard-F",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Studio-B",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Studio-C",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-A",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-B",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-C",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-D",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-E",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "de-DE-Wavenet-F",
+        "supported_language": [
+            "de-DE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "el-GR-Standard-A",
+        "supported_language": [
+            "el-GR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "el-GR-Wavenet-A",
+        "supported_language": [
+            "el-GR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Neural2-A",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Neural2-B",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Neural2-C",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Neural2-D",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-News-E",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-News-F",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-News-G",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Polyglot-1",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Standard-A",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Standard-B",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Standard-C",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Standard-D",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Wavenet-A",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Wavenet-B",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Wavenet-C",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-AU-Wavenet-D",
+        "supported_language": [
+            "en-AU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Neural2-A",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Neural2-B",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Neural2-C",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Neural2-D",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Neural2-F",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-G",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-H",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-I",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-J",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-K",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-L",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-News-M",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Standard-A",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Standard-B",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Standard-C",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Standard-D",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Standard-F",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Studio-B",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Studio-C",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Wavenet-A",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Wavenet-B",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Wavenet-C",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Wavenet-D",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-GB-Wavenet-F",
+        "supported_language": [
+            "en-GB"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Neural2-A",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Neural2-B",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Neural2-C",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Neural2-D",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Standard-A",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Standard-B",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Standard-C",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Standard-D",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Wavenet-A",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Wavenet-B",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Wavenet-C",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-IN-Wavenet-D",
+        "supported_language": [
+            "en-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Casual-K",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Journey-D",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Journey-F",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-A",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-C",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-D",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-E",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-F",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-G",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-H",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-I",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Neural2-J",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-News-K",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-News-L",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-News-N",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Polyglot-1",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-A",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-B",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-C",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-D",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-E",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-F",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-G",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-H",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-I",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Standard-J",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Studio-O",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Studio-Q",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-A",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-B",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-C",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-D",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-E",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-F",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-G",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-H",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-I",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "en-US-Wavenet-J",
+        "supported_language": [
+            "en-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-A",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-B",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-C",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-D",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-E",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Neural2-F",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Polyglot-1",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Standard-A",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Standard-B",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Standard-C",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Standard-D",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Wavenet-B",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Wavenet-C",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-ES-Wavenet-D",
+        "supported_language": [
+            "es-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Neural2-A",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Neural2-B",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Neural2-C",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-News-D",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-News-E",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-News-F",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-News-G",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Polyglot-1",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Standard-A",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Standard-B",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Standard-C",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Studio-B",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Wavenet-A",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Wavenet-B",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "es-US-Wavenet-C",
+        "supported_language": [
+            "es-US"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "eu-ES-Standard-A",
+        "supported_language": [
+            "eu-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fi-FI-Standard-A",
+        "supported_language": [
+            "fi-FI"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fi-FI-Wavenet-A",
+        "supported_language": [
+            "fi-FI"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Standard-A",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Standard-B",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Standard-C",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Standard-D",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Wavenet-A",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Wavenet-B",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Wavenet-C",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-PH-Wavenet-D",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-ph-Neural2-A",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fil-ph-Neural2-D",
+        "supported_language": [
+            "fil-PH"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Neural2-A",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Neural2-B",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Neural2-C",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Neural2-D",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Standard-A",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Standard-B",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Standard-C",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Standard-D",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Wavenet-A",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Wavenet-B",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Wavenet-C",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-CA-Wavenet-D",
+        "supported_language": [
+            "fr-CA"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Neural2-A",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Neural2-B",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Neural2-C",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Neural2-D",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Neural2-E",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Polyglot-1",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Standard-A",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Standard-B",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Standard-C",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Standard-D",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Standard-E",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Studio-A",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Studio-D",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Wavenet-A",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Wavenet-B",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Wavenet-C",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Wavenet-D",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "fr-FR-Wavenet-E",
+        "supported_language": [
+            "fr-FR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gl-ES-Standard-A",
+        "supported_language": [
+            "gl-ES"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Standard-A",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Standard-B",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Standard-C",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Standard-D",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Wavenet-A",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Wavenet-B",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Wavenet-C",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "gu-IN-Wavenet-D",
+        "supported_language": [
+            "gu-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Standard-A",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Standard-B",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Standard-C",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Standard-D",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Wavenet-A",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Wavenet-B",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Wavenet-C",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "he-IL-Wavenet-D",
+        "supported_language": [
+            "he-IL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Neural2-A",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Neural2-B",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Neural2-C",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Neural2-D",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Standard-A",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Standard-B",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Standard-C",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Standard-D",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Wavenet-A",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Wavenet-B",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Wavenet-C",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hi-IN-Wavenet-D",
+        "supported_language": [
+            "hi-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hu-HU-Standard-A",
+        "supported_language": [
+            "hu-HU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "hu-HU-Wavenet-A",
+        "supported_language": [
+            "hu-HU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Standard-A",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Standard-B",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Standard-C",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Standard-D",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Wavenet-A",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Wavenet-B",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Wavenet-C",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "id-ID-Wavenet-D",
+        "supported_language": [
+            "id-ID"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "is-IS-Standard-A",
+        "supported_language": [
+            "is-IS"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Neural2-A",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Neural2-C",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Standard-A",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Standard-B",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Standard-C",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Standard-D",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Wavenet-A",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Wavenet-B",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Wavenet-C",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "it-IT-Wavenet-D",
+        "supported_language": [
+            "it-IT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Neural2-B",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Neural2-C",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Neural2-D",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Standard-A",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Standard-B",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Standard-C",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Standard-D",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Wavenet-A",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Wavenet-B",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Wavenet-C",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ja-JP-Wavenet-D",
+        "supported_language": [
+            "ja-JP"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Standard-A",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Standard-B",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Standard-C",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Standard-D",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Wavenet-A",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Wavenet-B",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Wavenet-C",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "kn-IN-Wavenet-D",
+        "supported_language": [
+            "kn-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Neural2-A",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Neural2-B",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Neural2-C",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Standard-A",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Standard-B",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Standard-C",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Standard-D",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Wavenet-A",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Wavenet-B",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Wavenet-C",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ko-KR-Wavenet-D",
+        "supported_language": [
+            "ko-KR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "lt-LT-Standard-A",
+        "supported_language": [
+            "lt-LT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "lv-LV-Standard-A",
+        "supported_language": [
+            "lv-LV"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Standard-A",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Standard-B",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Standard-C",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Standard-D",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Wavenet-A",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Wavenet-B",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Wavenet-C",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ml-IN-Wavenet-D",
+        "supported_language": [
+            "ml-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Standard-A",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Standard-B",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Standard-C",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Wavenet-A",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Wavenet-B",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "mr-IN-Wavenet-C",
+        "supported_language": [
+            "mr-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Standard-A",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Standard-B",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Standard-C",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Standard-D",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Wavenet-A",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Wavenet-B",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Wavenet-C",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ms-MY-Wavenet-D",
+        "supported_language": [
+            "ms-MY"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Standard-A",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Standard-B",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Standard-C",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Standard-D",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Standard-E",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Wavenet-A",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Wavenet-B",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Wavenet-C",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Wavenet-D",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nb-NO-Wavenet-E",
+        "supported_language": [
+            "nb-NO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-BE-Standard-A",
+        "supported_language": [
+            "nl-BE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-BE-Standard-B",
+        "supported_language": [
+            "nl-BE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-BE-Wavenet-A",
+        "supported_language": [
+            "nl-BE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-BE-Wavenet-B",
+        "supported_language": [
+            "nl-BE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Standard-A",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Standard-B",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Standard-C",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Standard-D",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Standard-E",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Wavenet-A",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Wavenet-B",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Wavenet-C",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Wavenet-D",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "nl-NL-Wavenet-E",
+        "supported_language": [
+            "nl-NL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Standard-A",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Standard-B",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Standard-C",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Standard-D",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Wavenet-A",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Wavenet-B",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Wavenet-C",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pa-IN-Wavenet-D",
+        "supported_language": [
+            "pa-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Standard-A",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Standard-B",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Standard-C",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Standard-D",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Standard-E",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Wavenet-A",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Wavenet-B",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Wavenet-C",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Wavenet-D",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pl-PL-Wavenet-E",
+        "supported_language": [
+            "pl-PL"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Neural2-A",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Neural2-B",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Neural2-C",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Standard-A",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Standard-B",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Standard-C",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Wavenet-A",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Wavenet-B",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-BR-Wavenet-C",
+        "supported_language": [
+            "pt-BR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Standard-A",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Standard-B",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Standard-C",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Standard-D",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Wavenet-A",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Wavenet-B",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Wavenet-C",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "pt-PT-Wavenet-D",
+        "supported_language": [
+            "pt-PT"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ro-RO-Standard-A",
+        "supported_language": [
+            "ro-RO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ro-RO-Wavenet-A",
+        "supported_language": [
+            "ro-RO"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Standard-A",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Standard-B",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Standard-C",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Standard-D",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Standard-E",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Wavenet-A",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Wavenet-B",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Wavenet-C",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Wavenet-D",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ru-RU-Wavenet-E",
+        "supported_language": [
+            "ru-RU"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sk-SK-Standard-A",
+        "supported_language": [
+            "sk-SK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sk-SK-Wavenet-A",
+        "supported_language": [
+            "sk-SK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sr-RS-Standard-A",
+        "supported_language": [
+            "sr-RS"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Standard-A",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Standard-B",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Standard-C",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Standard-D",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Standard-E",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Wavenet-A",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Wavenet-B",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Wavenet-C",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Wavenet-D",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "sv-SE-Wavenet-E",
+        "supported_language": [
+            "sv-SE"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Standard-A",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Standard-B",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Standard-C",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Standard-D",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Wavenet-A",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Wavenet-B",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Wavenet-C",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "ta-IN-Wavenet-D",
+        "supported_language": [
+            "ta-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "te-IN-Standard-A",
+        "supported_language": [
+            "te-IN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "te-IN-Standard-B",
+        "supported_language": [
+            "te-IN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "th-TH-Neural2-C",
+        "supported_language": [
+            "th-TH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "th-TH-Standard-A",
+        "supported_language": [
+            "th-TH"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Standard-A",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Standard-B",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Standard-C",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Standard-D",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Standard-E",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Wavenet-A",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Wavenet-B",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Wavenet-C",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Wavenet-D",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "tr-TR-Wavenet-E",
+        "supported_language": [
+            "tr-TR"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "uk-UA-Standard-A",
+        "supported_language": [
+            "uk-UA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "uk-UA-Wavenet-A",
+        "supported_language": [
+            "uk-UA"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Neural2-A",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Neural2-D",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Standard-A",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Standard-B",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Standard-C",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Standard-D",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Wavenet-A",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Wavenet-B",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Wavenet-C",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "vi-VN-Wavenet-D",
+        "supported_language": [
+            "vi-VN"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "yue-HK-Standard-A",
+        "supported_language": [
+            "yue-HK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "yue-HK-Standard-B",
+        "supported_language": [
+            "yue-HK"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "yue-HK-Standard-C",
+        "supported_language": [
+            "yue-HK"
+        ],
+        "ssml_voice_gender": "FEMALE",
+        "natural_sample_rate_hertz": 24000
+    },
+    {
+        "name": "yue-HK-Standard-D",
+        "supported_language": [
+            "yue-HK"
+        ],
+        "ssml_voice_gender": "MALE",
+        "natural_sample_rate_hertz": 24000
+    }
+]

@@ -1,0 +1,8 @@
+librosa
+matplotlib
+pydub
+streamlit
+TTS==0.22.0
+google-cloud-translate
+sounddevice
+wavio

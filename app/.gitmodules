@@ -1,0 +1,3 @@
+[submodule "app/backend/TTS"]
+	path = app/backend/TTS
+	url = https://github.com/ynb97/TTS-1

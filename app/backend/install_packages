@@ -1,0 +1,31 @@
+#!/bin/sh
+set -eu
+
+n=0
+max=2
+export DEBIAN_FRONTEND=noninteractive
+
+echo 'APT::Install-Recommends "0";' >> /etc/apt/apt.conf \
+    && echo 'APT::Install-Suggests "0";' >> /etc/apt/apt.conf \
+    && echo 'deb http://archive.debian.org/debian-security stretch/updates main contrib non-free' > /etc/apt/sources.list.d/openssl.list \
+    && echo 'deb-src http://archive.debian.org/debian-security stretch/updates main contrib non-free' > /etc/apt/sources.list.d/openssl.list \
+    && apt-get update && apt-get upgrade
+
+until [ $n -gt $max ]; do
+    set +e
+    (
+      apt-get update -qq &&
+      apt-get install -y --no-install-recommends "$@"
+    )
+    CODE=$?
+    set -e
+    if [ $CODE -eq 0 ]; then
+        break
+    fi
+    if [ $n -eq $max ]; then
+        exit $CODE
+    fi
+    echo "apt failed, retrying"
+    n=$(($n + 1))
+done
+apt-get clean && rm -rf /var/lib/apt/lists /var/cache/apt/archives

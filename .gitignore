@@ -1,0 +1,13 @@
+venv
+__pycache__
+app/backend/diarizers
+app/docker_tmp
+app/home
+app/backend/data/generated_audio
+app/backend/split_audio
+app/backend/audio/*.wav
+# app/*.wav
+*.wav
+speech*.mp3
+speech*.mp4
+*.parquet

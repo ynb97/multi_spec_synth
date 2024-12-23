@@ -1,0 +1,1 @@
+sox ./split_audio/*$1* speech_$1.wav
